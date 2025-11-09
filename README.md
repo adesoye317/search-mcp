@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # search-mcp
 Making use of Brave MCP server
-=======
 # Brave Search MCP Server
 
 An MCP server implementation that integrates the Brave Search API, providing comprehensive search capabilities including web search, local business search, image search, video search, news search, and AI-powered summarization. This project supports both STDIO and HTTP transports, with STDIO as the default mode.
@@ -343,4 +341,3 @@ docker-compose up --build
 ## License
 
 This MCP server is licensed under the MIT License. This means you are free to use, modify, and distribute the software, subject to the terms and conditions of the MIT License. For more details, please see the LICENSE file in the project repository.
->>>>>>> d85e11a (add mpc server)
